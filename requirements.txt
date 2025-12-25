@@ -1,0 +1,4 @@
+datasets==4.4.1
+transformers== 4.57.3
+torch==2.9.1
+peft==0.18.0
