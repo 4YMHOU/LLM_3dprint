@@ -22,7 +22,7 @@ LLM_LoRA_training/
 
 ### 1. Установка зависимостей
 ```bash
-pip install torch transformers peft datasets accelerate
+pip install -r requirements.txt
 ```
 *Рекомендуется использовать среду с поддержкой CUDA для ускорения обучения.*
 
@@ -294,6 +294,7 @@ plt.savefig('images/training_loss.png', dpi=300, bbox_inches='tight')
 **Лицензия:** MIT
 
 ```
+
 
 
 
