@@ -1,4 +1,3 @@
-markdown
 <div align="center">
   <h1 align="center">Дообучение модели Qwen2.5-1.5B на датасете по 3D-печати с использованием LoRA</h1>
   <h4 align="center">Параметрически эффективное дообучение для получения экспертных знаний в области аддитивных технологий</h4>
@@ -298,3 +297,4 @@ plt.savefig('images/training_loss.png', dpi=300, bbox_inches='tight')
 **Лицензия:** MIT
 
 ```
+
