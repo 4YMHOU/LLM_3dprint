@@ -1,7 +1,6 @@
 <div align="center">
   <h1 align="center">Дообучение модели Qwen2.5-1.5B на датасете по 3D-печати с использованием LoRA</h1>
 </div>
-<br>
 
 ## Цель работы
 
@@ -290,3 +289,4 @@ plt.savefig('images/training_loss.png', dpi=300, bbox_inches='tight')
 **Дата:** 2025
 **Модель:** Qwen2.5-1.5B + LoRA  
 **Тематика:** 3D-печать и аддитивные технологии  
+
